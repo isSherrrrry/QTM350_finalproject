@@ -1,0 +1,21 @@
+,input,sentiment
+1,I want to return something,neutral
+2,I'm calling for paying my bill,neutral
+3,I want to talk to an agent,neutral
+4,I need to file a claim,neutral
+5,I'm calling for scheduling an installation,neutral
+6,I have a question about your product,neutral
+7,I want to open a new account,neutral
+8,I mean I want to speak with a real person,negative
+9,Can't you understand? I said I want my money back!,negative
+10,Oh my god can someone help me,negative
+11,I don't want to repeat myself. I need to talk to a person,negative
+12,No I mean another thing!,negative
+13,I don't know why it doesn't work,negative
+14,Just send me to someone who can solve me problem now,negative
+15,Can you just top repeating yourself and do something right!,super negative
+16,Ok fine I give up,super negative
+17,Are you an idiot?,super negative
+18,"What the heck, just answer my question",super negative
+19,Yeah blah blah blah can you just answer my question why are you so stupid,super negative
+20,Why are you speaking with that tone just listen to me!,super negative
