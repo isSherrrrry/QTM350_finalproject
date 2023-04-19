@@ -22,6 +22,7 @@ The project architecture consists of two main components:
 - AWS Comprehend - a cloud-base language model for NLP and sentiment analysis 
 
 Here's an architecture diagram 
+
 ![ad](/Architecture Diagram/Final project arch diagram.drawio.png)
 
 ## Results
