@@ -2,7 +2,7 @@
 
 Group: Harry Chen, Wendy Wang, Connie He, Yijun Liu, Jonathan Wuyan, and Eric Xue
 
-Link to the notebook: [Notebook](URL)
+Link to the notebook: [Blog Post](https://sagemaker-studio-063621648806-umlv94khrb8.s3.amazonaws.com/assemble.html)
 
 This GitHub repository contains the code and resources for a sentiment analysis project aimed at improving customer service in phone calls. The goal of the project is to enhance user experience, increase brand loyalty, and improve customer satisfaction by using machine learning algorithms to perform sentiment analysis on customer service calls.
 

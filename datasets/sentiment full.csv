@@ -1,0 +1,41 @@
+,input,sentiment
+1,"Hi, I'm having trouble accessing my AT&T account online. Whenever I try to log in, it says my username or password is incorrect. Can you help me to reset my password.",neutral
+2,"Hi, I have an issue with my internet connection. It's been down for the past hour. I can't believe the service you're providing me is so useless!",super negative
+3,I've been having trouble with my internet service. It's been going on for two days now. Is there an outage in my area? I've tried resetting my modem and router several times already.,neutral
+4,"Hello, I have some questions about my bill. I noticed that my bill is higher than usual this month. Can you explain why? I’m pretty sure I didn’t use that much of data this month!",negative
+5,"Hi, I'd like to upgrade my plan to include more data. I'm currently on the basic plan. What are the available plans right now?",neutral
+6,"Hi, I'd like to add a new line to my account for my sister. Can you help me with that?",neutral
+7,"Hello, I'm traveling to Europe next week and I'd like to use my phone there. What are my options for international roaming?",neutral
+8,"Hi, I recently moved and I need to update my billing address. Thank you.",neutral
+9,"Hello, I'm interested in switching to ATT. What are the promotions that are currently available?",neutral
+10,I am moving to a different state and won't be needing your services anymore. I need help to close my account.,neutral
+11,I just ordered a device from ATT but I haven't received any updates on the delivery status. Can you give me an update real quick?,neutral
+12,I want to upgrade my phone to the newest iPhone 14 with 256GB version in gold. Is it possible for me to purchase it through the Installment Plan?,neutral
+13,I’m a bit concerned about cyberattacks and the security of my personal information. I’m wondering what measures AT&T are taking right now to protect customers.,negative
+14,Why is my bill constantly increasing without any explanation or notification? I've had enough of this deception!,super negative
+15,"I’m interested in signing up for the loyalty program, can you tell me more about it, like what kinds of benefits and discounts are available through this program.",neutral
+16,My phone is cracked and I need to get it repaired like right now. Can you schedule an appointment today at the nearest repair center.,neutral
+17,I've been experiencing slow internet speeds for the past week. Could you help me troubleshoot this issue and determine what the problem might be?,neutral
+18,"Why is my internet speed so slow? I'm paying for high-speed internet, and this is unacceptable!",super negative
+19,"I'm interested in upgrading my wireless plan, but I'm not sure which one is the best fit for my needs. Could you provide me with more information about the different plans available and their pricing?",neutral
+20,"I received a bill that's higher than usual, and I'm not sure why. Could you review my account and help me understand the charges?",neutral
+21,Your service is a complete disaster! Why do I keep experiencing slow internet speeds?,super negative
+22,"I'm having trouble accessing my email account, and I keep receiving an error message. Could you help me troubleshoot this issue and regain access to my email?",neutral
+23,What kind of company treats their loyal customers like this? I've been with ATT for years and this is the thanks I get?,super negative
+24,Why am I constantly getting dropped calls on my phone? I've had enough of this unreliable service!,super negative
+25,"Your technician was supposed to come today and fix my service, but nobody showed up!",super negative
+26,"I recently purchased a new device, but I'm having trouble setting it up and syncing it with my other devices. Could you guide me through the setup process?",neutral
+27,I'm traveling internationally next month and want to make sure that I have adequate coverage and won't incur any unexpected charges. Could you help me understand my international plan options?,neutral
+28,"I received a promotional offer in the mail for a new ATT service, but I have some questions about the terms and conditions. Could you provide me with more information about the offer and help me understand any potential fees or restrictions?",neutral
+29,"I'm interested in adding new features to my ATT TV plan, such as premium channels or on-demand programming. Can you help me understand my options and choose the best package for my viewing preferences?",neutral
+30,"I've been having some issues with my TV signal, and the picture quality is poor. What should I do now?",neutral
+31,How can I track my loyalty program points and redeem them for rewards?,neutral
+32,What should I do if I suspect that my account has been hacked or compromised?,neutral
+33,"Can you explain how your loyalty program works? What happens if I don't use my rewards earned through the ATT loyalty program before they expire, and can I extend their validity?",neutral
+34,"Are there any fees or costs associated with being a member of the ATT loyalty program, and how do I opt out if I decide to do so?",neutral
+35,I'm interested in upgrading my DirectTV package to include more sports channels. Can you tell me which packages offer the best value for my needs?,neutral
+36,"I'm interested in signing up for AT&T Fiber Internet, but I'm not sure if it's available in my area. Can you help me check availability and recommend any other high-speed Internet options if it's not available?",neutral
+37,How can you claim to provide quality service when my phone has been malfunctioning for weeks and your so-called repair team hasn't been able to fix it? I demand immediate action!,super negative
+38,"Why am I being charged for services that I didn't authorize or use, and how can I get these charges removed?I've been trying to get ahold of customer service for days and haven't been able to get through. Why is it so difficult to speak with a representative?",negative
+39,"I've been trying to update my account information online, but the website keeps giving me errors. Why is it so difficult to make simple changes to my account",negative
+40,"Why is it taking so long for your incompetent technicians to fix my internet, and why do I have to keep calling in to get updates? This is absolutely ridiculous!",super negative
