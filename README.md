@@ -25,12 +25,12 @@ The project architecture consists of two main components:
 
 Here's an architecture diagram 
 
-![ad](/Architecture Diagram/Final project arch diagram.drawio.png)
+![ad](/diagrams/final_arch.png)
 
 ## Results
 The project successfully evaluated the performance of AWS Transcribe and GPT-3.5 for transcription and sentiment analysis, respectively. The transcription error rate was low, indicating that the program accurately transcribed the audio files into text. However, the classification accuracy of GPT-3.5 was low, indicating that the chatbot failed to classify the requests correctly. Incorporating sentiment analysis algorithms, such as AWS Comprehend and GPT, improved the accuracy of classification and provided a possible solution for the frustration experienced by customers.
 
-![sm](Sentiment Analysis Comparison Visual.png)
+![sm](/diagrams/sent.png)
 
 ## Conclusion
 The project demonstrates the potential of using sentiment analysis algorithms to improve customer service in the telecommunication industry. By identifying negative emotions and categorizing customers' sentiments into neutral, negative, and super negative, chatbots can provide more thoughtful customer service procedures, reduce customer churn, and even attract new customers. The project's results can serve as a basis for further research and development in the field of customer service using NLP and sentiment analysis algorithms.
